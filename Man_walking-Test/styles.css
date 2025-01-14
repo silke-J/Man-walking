@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 290vh; 
+    background-color: #059335;
+    margin-top: 150px;
+}
+
+#road {
+    position: fixed;
+    left: 88%;
+    transform: translateX(-84%);
+    width: 50%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    scale: 150%;
+}
+
+#character {
+    position: fixed;
+    left: 49.3%;
+    transform: translateX(-44%);
+    width: 130px;
+    height: auto;
+}
