@@ -1,0 +1,63 @@
+button {
+  background-color: #059335;
+  list-style: none;
+  padding: 10px;
+  width: 90px;
+  border-radius: 30px;
+  border: none;
+  margin-left: 50px;
+}
+button a {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+.downloade button {
+  padding: 20px;
+  width: 400px;
+}
+.downloade button a {
+  font-size: 20px;
+}
+.downloade {
+  margin-top: 70px;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: #059335;
+  padding-top: 20px;
+}
+img {
+  width: 400px;
+  justify-items: center;
+}
+h3 {
+  font-size: 20px;
+  width: 700px;
+  justify-items: center;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+}
+.header {
+  justify-items: center;
+}
+
+.BlivMedlem {
+  justify-items: center;
+  height: 900px;
+  background-color: white;
+  width: 900px;
+}
+
+.width {
+  justify-items: center;
+}
+.backgrund {
+  background-image: url(./background3.jpeg);
+  background-position: bottom;
+   padding: 37px;
+}

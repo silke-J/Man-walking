@@ -1,0 +1,81 @@
+button {
+  background-color: #059335;
+  list-style: none;
+  padding: 10px;
+  width: 90px;
+  border-radius: 30px;
+  border: none;
+  margin-left: 50px;
+}
+button a {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+.downloade button {
+  padding: 20px;
+  width: 400px;
+}
+.downloade button a {
+  font-size: 20px;
+}
+.downloade {
+  margin-top: 70px;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: #059335;
+  padding-top: 20px;
+}
+h2 {
+  color: #059335;
+  text-align: center;
+}
+.chapter {
+  margin-top: 40px;
+}
+img {
+  width: 400px;
+  justify-items: center;
+}
+h3 {
+  font-size: 20px;
+  width: 700px;
+  justify-items: center;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+}
+.header {
+  justify-items: center;
+}
+
+.medlemlink button {
+  padding: 20px;
+  width: 400px;
+}
+.medlemlink button a {
+  font-size: 20px;
+}
+.medlemlink {
+  margin-top: 70px;
+}
+
+.infoforældre {
+  justify-items: center;
+  height: 2200px;
+  background-color: white;
+  width: 900px;
+}
+
+.width {
+  justify-items: center;
+}
+.backgrund {
+  background-image: url(./backgrond2.png);
+  background-position:center;
+  padding: 50px;
+}
